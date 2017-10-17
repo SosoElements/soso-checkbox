@@ -1,2 +1,3 @@
-# soso-checkbox
-Simple checkbox
+# \<soso-checkbox\>
+
+A simple checkbox
